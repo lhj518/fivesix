@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hi javascript
-=======
-hello aaaaa
->>>>>>> 7e95cb317c41860b3d20145070d7fb3d1c26c298
